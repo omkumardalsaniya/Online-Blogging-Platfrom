@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "6989ba56c48c412cc41b5867",
+    "blog": "a0de50030a98e5d6f37d91cd",
+    "name": "namam",
+    "content": "yehhhh!!! great we won.",
+    "isApproved": true,
+    "createdAt": "2026-03-11T18:02:01.022Z",
+    "updatedAt": "2026-03-11T18:02:19.866Z"
+  },
+  {
+    "_id": "e29c7bc73dcdba28784cf215",
+    "blog": "de340012510a87f1a50a66d2",
+    "name": "ok",
+    "content": "nice",
+    "isApproved": false,
+    "createdAt": "2026-04-25T00:45:51.073Z",
+    "updatedAt": "2026-04-25T00:45:51.073Z"
+  },
+  {
+    "_id": "0fcb51ee1fd412972cca05d3",
+    "blog": "de340012510a87f1a50a66d2",
+    "name": "rahul",
+    "content": "yes this bloog is too good",
+    "isApproved": false,
+    "createdAt": "2026-04-25T00:47:32.175Z",
+    "updatedAt": "2026-04-25T00:47:32.175Z"
+  },
+  {
+    "_id": "5559a1db689cfcd8d5daf4d5",
+    "blog": "b9840c89c53ec4f377863c7c",
+    "name": "ik",
+    "content": "ok",
+    "isApproved": false,
+    "createdAt": "2026-04-25T03:28:56.822Z",
+    "updatedAt": "2026-04-25T03:28:56.822Z"
+  }
+]
