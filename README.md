@@ -13,12 +13,12 @@ React (JavaScript) + HTML + CSS
 Backend:
 Node.js + Express.js
 
-3. Features
-Create new blog posts,
-Read all blog posts,
+3. Features :
+
+Create new blog,
+Read all blogs,
 comment on blog,
-Delete blog posts,
-View single blog details,
+Delete blog,
 RESTful API integration,
 Responsive design,
 Fast and smooth user experience
