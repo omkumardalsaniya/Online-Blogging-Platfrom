@@ -8,21 +8,17 @@ This project demonstrates full-stack development skills including frontend devel
 2. Tech Stack Used
 
 Frontend:
-React.js
-Axios
-React Router DOM
-CSS / Bootstrap / Tailwind
+React (JavaScript) + HTML + CSS
 
 Backend:
-Node.js
-Express.js
+Node.js + Express.js
 
 3. Features
-Create new blog posts
-Read all blog posts
-Update existing blog posts
-Delete blog posts
-View single blog details
-RESTful API integration
-Responsive design
+Create new blog posts,
+Read all blog posts,
+comment on blog,
+Delete blog posts,
+View single blog details,
+RESTful API integration,
+Responsive design,
 Fast and smooth user experience
